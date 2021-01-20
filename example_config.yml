@@ -1,0 +1,7 @@
+github_token: "YOUR_GITHUB_TOKEN"
+github_username: nicolasgere
+repositories:
+  - name: descript-workflows
+    owner: descriptinc
+  - name: descript-api
+    owner: descriptinc
